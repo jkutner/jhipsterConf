@@ -31,6 +31,7 @@
     "jhipsterVersion": "4.14.4",
     "packageFolder": "io/github/jhipster/application",
     "jwtSecretKey": "d0048e0e4892cea3a131b11f4ca9f8e76b5ed9da",
-    "jhiPrefix": "jhi"
+    "jhiPrefix": "jhi",
+    "herokuDeployType": "git"
   }
 }
