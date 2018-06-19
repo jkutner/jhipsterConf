@@ -1,0 +1,17 @@
+{
+  "name": "jhipsterConf",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-sprettur"
+    }
+  ]
+}
